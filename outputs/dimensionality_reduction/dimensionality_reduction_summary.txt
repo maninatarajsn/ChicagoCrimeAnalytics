@@ -1,0 +1,28 @@
+============================================================
+DIMENSIONALITY REDUCTION SUMMARY
+============================================================
+
+1. PCA (Principal Component Analysis)
+----------------------------------------
+Components: 5
+Variance explained (total): 72.52%
+Top 3 components: [20.03782887 17.08957662 12.54205314]
+
+2. t-SNE (T-Distributed Stochastic Neighbor Embedding)
+----------------------------------------
+Components: 2
+KL divergence: 1.9828
+Iterations: 999
+
+3. UMAP (Uniform Manifold Approximation and Projection)
+----------------------------------------
+Not available (install: pip install umap-learn)
+
+============================================================
+KEY FINDINGS
+============================================================
+
+- PCA achieved 72.5% variance with 5 components
+- Dimensionality reduced from 10 to 5 features
+- All visualizations support crime pattern analysis
+- Ready for Streamlit dashboard deployment

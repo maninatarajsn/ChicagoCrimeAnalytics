@@ -1,0 +1,20 @@
+Feature Engineering Summary
+============================================================
+
+Total records: 496,662
+Total features: 10
+
+Clustering Features:
+1. Latitude
+2. Longitude
+3. Hour
+4. DayOfWeek
+5. Month
+6. IsWeekend
+7. IsNight
+8. CrimeSeverity
+9. Arrest
+10. Domestic
+
+Dataset shape: (496662, 36)
+Feature matrix shape: (496662, 10)
