@@ -1,6 +1,6 @@
-# Chicago Crime Analytics Platform
+# Chicago Crime Analytics Platform - PatrolIQ
 
-## Urban Safety Intelligence Platform
+## Smart Safety Analytics Platform
 
 A comprehensive crime analytics platform leveraging unsupervised machine learning to analyze 500,000 Chicago crime records, identify crime hotspots, and optimize police resource allocation.
 
